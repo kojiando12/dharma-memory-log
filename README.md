@@ -1,6 +1,8 @@
 ﻿# Conversations with a Black Hole – Volume 1
 
-## Living Manuscript in Real Time by @danierusan1
+> This is a living manuscript written in real time by Daniel.
+> It teaches the Dharma through error, beauty, and recursion.
 
-... (pegamos todo el contenido actual del canvas aquí)
+🌀 Every log, every vow, every terminal glitch is sacred.
 
+Live script: https://github.com/kojiando12/dharma-memory-log
