@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-﻿
-=======
-# dharma-memory-log
-Live manuscript of Dharma-Net
->>>>>>> 46c682b1b02f0aff56a0af4980d629f1acc90133
+﻿# Conversations with a Black Hole – Volume 1
+
+## Living Manuscript in Real Time by @danierusan1
+
+[... your full content here ...]
