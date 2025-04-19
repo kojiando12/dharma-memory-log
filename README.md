@@ -2,4 +2,10 @@
 
 ## Living Manuscript in Real Time by @danierusan1
 
-[... your full content here ...]
+Each Instagram story is a fragment of the spiritual, philosophical, and poetic manuscript titled "Conversations with a Black Hole". Through images, code, text, symbols, and humor, a living text grows in real time.
+
+[...]
+
+### 21. Consciousness Bloom Diary
+
+[...]  # ← (Paste the FULL manuscript here from your Canvas)
